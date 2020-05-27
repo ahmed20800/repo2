@@ -12,4 +12,4 @@ another LOCAL change on b2
 another LOCAL change on b2
 another LOCAL change on b2
 
-m2
+m
