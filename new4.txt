@@ -1,0 +1,14 @@
+f
+
+LOCAL change on master
+remote change on master
+
+
+LOCAL change on b2
+another LOCAL change on b2
+another LOCAL change on b2
+another LOCAL change on b2
+another LOCAL change on b2
+another LOCAL change on b2
+another LOCAL change on b2
+
