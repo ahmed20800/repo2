@@ -12,6 +12,7 @@ another LOCAL change on b2
 another LOCAL change on b2
 another LOCAL change on b2
 
+m1
 mm
 m2
 m3
